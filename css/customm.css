@@ -45,4 +45,9 @@
     #footer #footer-wrap a {
         color: var(--font-color)
     }
-    
+    #body-wrap{
+        background-image: url(https://cdn.jsdelivr.net/gh/zhaoze-jpg/Xianqi@main/imgg/16.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+      }
